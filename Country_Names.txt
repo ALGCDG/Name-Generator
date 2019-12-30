@@ -1,205 +1,204 @@
-Afght
-Alb
-Alger
-Aorr
-Agol
-Atgu__Brbu
-Arget
-Arme
-Autrl
-Autr
-Azerbj
-Bhm
-Bhr
-Bgleh
-Brbo
-Belru
-Belgum
-Belze
-Be
-Bhut
-Bolv
-Bo__Herzegov
-Botw
-Brzl
-Brue
-Bulgr
-Burk_Fo
-Buru
-Cmbo
-Cmeroo
-C
-Ce_Vere
-Cetrl_Afrc_Reublc
-Ch
-Chle
-Ch
-Colomb
-Comoro
-Cogo,_Democrtc_Reublc_of_the
-Cogo,_Reublc_of_the
-Cot_Rc
-Crot
-Cub
-Cyru
-Czech_Reublc
-Demrk
-Djbout
-Domc
-Domc_Reublc
-Et_Tmor
-Ecuor
-Egyt
-El_Slvor
-Equtorl_Gue
-Ertre
-Eto
-Ewt
-Etho
-Fj
-Fl
-Frce
-Gbo
-Gmb
-Georg
-Germy
-Gh
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas, The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo, Democratic Republic of the
+Congo, Republic of the
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia, The
+Georgia
+Germany
+Ghana
 Greece
-Gre
-Guteml
-Gue
-Gue-Bu
-Guy
-Ht
-Hour
-Hugry
-Icel
-I
-Ioe
-Ir
-Irq
-Irel
-Irel
-Itly
-Ivory_Cot
-Jmc
-J
-Jor
-Kzkht
-Key
-Krbt
-Kore_North
-Kore_South
-Kuwt
-Kyrgyzt
-Lo
-Ltv
-Lebo
-Leotho
-Lber
-Lby
-Lechtete
-Lthu
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Ivory Coast
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, North
+Korea, South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
 Luxembourg
-Mgcr
-Mlw
-Mly
-Mlve
-Ml
-Mlt
-Mrhll_Il
-Murt
-Murtu
-Mexco
-Mcroe
-Molov
-Moco
-Mogol
-Moteegro
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
 Morocco
-Mozmbque
-Mymr
-Nmb
-Nuru
-Nel
-New_Zel
-Ncrgu
-Nger
-Nger
-North_Mceo
-Norwy
-Om
-Pkt
-Plu
-Pm
-Pu_New_Gue
-Prguy
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
 Peru
-Phle
-Pol
-Portugl
-Qtr
-Rom
-Ru
-Rw
-St_Ktt__Nev
-St_Luc
-St_Vcet__the_Gree
-Smo
-S_Mro
-São_Tomé__Príce
-Su_Arb
-Seegl
-Serb
-Seychelle
-Serr_Leoe
-Sgore
-Slovk
-Slove
-Solomo_Il
-Soml
-South_Afrc
-South_Su
-S
-Sr_Lk
-Su
-Surme
-Swee
-Swtzerl
-Syr
-Tjkt
-Tz
-Thl
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+São Tomé and Príncipe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
 Togo
-Tog
-Tr__Tobgo
-Tu
+Tonga
+Trinidad and Tobago
+Tunisia
 Turkey
-Turkmet
-Tuvlu
-Ug
-Ukre
-Ute_Arb_Emrte
-Ute_Kgom
-Ute_Stte
-Uruguy
-Uzbekt
-Vutu
-Vtc_Cty
-Veezuel
-Vetm
-Yeme
-Zmb
-Zmbbwe
-Other_tte
-Abkhz
-Artkh
-Cook_Il
-Koovo
-Nue
-Norther_Cyru
-SADR
-Somll
-South_Oet
-Tw
-Trtr
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+Abkhazia
+Artsakh
+Cook Islands
+Kosovo
+Niue
+Northern Cyprus
+Sahrawi Arab Democratic Republic
+Somaliland
+South Ossetia
+Taiwan
+Transnistria
